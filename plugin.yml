@@ -1,0 +1,8 @@
+name: RedstoneShop
+version: 1.0 (by anyad11)
+main: com.example.rshop.RShop
+api-version: 1.18
+commands:
+  rshop:
+    description: Open the redstoneshop
+    usage: /rshop
